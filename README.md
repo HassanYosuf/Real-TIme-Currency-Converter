@@ -19,44 +19,46 @@ It is a platform dependent API for creating Graphical User Interface (GUI) for j
 
  <h2> Currency List:</h2>
 
-(Euro - EUR) (British Pound - GBP)
-(United States Dollar - USD)
-(Australian Dollar - AUD)
-(Canadian Dollar - CAD)
-(Swiss Franc - CHF)
-(Chinese Yuan - CNY) (Hong Kong Dollar - HKD)(Indonesian Rupiah - IDR)
-(Indian Rupee - INR)
-(Japanese Yen - JPY)
-(Thai Baht - THB)
-)(Albanian Lek - ALL)
-(Algerian Dinar - DZD
-)(Aluminium Ounces - XAL
-)(Argentine Peso - ARS
-)(Aruba Florin - AWG)
-(Bahamian Dollar - BSD
-)(Somali Shilling - SOS
-)(South African Rand - ZAR
-)(Sri Lanka Rupee - LKR
-)(St Helena Pound - SHP
-)(Sudanese Pound - SDG
-)(Swaziland Lilageni - SZL
-)(Swedish Krona - SEK
-)(Syrian Pound - SYP
-)(Taiwan Dollar - TWD
-)(Tanzanian Shilling - TZS
-)(Tonga Pa'ang - TOP
-)(Trinidad & Tobago Dollar - TTD
-)(Tunisian Dinar - TND
-)(UAE Dirham - AED
-)(Ugandan Shilling - UGX
-)(Ukraine Hryvnia - UAH
-)(Uruguayan New Peso - UYU
-)(Vanuatu Vatu - VUV
-)(Venezuelan Bolivar Fuerte - VEF
-)(Vietnam Dong - VND
-)(Yemen Riyal - YER
-)(Zambian Kwacha - ZMK
-)(Zimbabwe dollar - ZWD) etc.
+(Euro - EUR)</br>
+(British Pound - GBP)</br>
+(United States Dollar - USD)</br>
+(Australian Dollar - AUD)</br>
+(Canadian Dollar - CAD)</br>
+(Swiss Franc - CHF)</br>
+(Chinese Yuan - CNY)</br> (Hong Kong Dollar - HKD)</br>(Indonesian Rupiah - IDR)</br>
+(Indian Rupee - INR)</br>
+(Japanese Yen - JPY)</br>
+(Thai Baht - THB)</br>
+(Albanian Lek - ALL)</br>
+(Algerian Dinar - DZD)</br>
+(Aluminium Ounces - XAL)</br>
+(Argentine Peso - ARS)</br>
+(Aruba Florin - AWG)</br>
+(Bahamian Dollar - BSD)</br>
+(Somali Shilling - SOS
+)</br>(South African Rand - ZAR
+)</br>(Sri Lanka Rupee - LKR
+)</br>(St Helena Pound - SHP
+)</br>(Sudanese Pound - SDG
+)</br>(Swaziland Lilageni - SZL
+)</br>(Swedish Krona - SEK
+)</br>(Syrian Pound - SYP
+)</br>(Taiwan Dollar - TWD
+)</br>(Tanzanian Shilling - TZS
+)</br>(Tonga Pa'ang - TOP
+)</br>(Trinidad & Tobago Dollar - TTD
+)</br>(Tunisian Dinar - TND
+)</br>(UAE Dirham - AED
+)</br>(Ugandan Shilling - UGX
+)</br>(Ukraine Hryvnia - UAH
+)</br>(Uruguayan New Peso - UYU
+)</br>(Vanuatu Vatu - VUV
+)</br>(Venezuelan Bolivar Fuerte - VEF
+)</br>(Vietnam Dong - VND
+)</br>(Yemen Riyal - YER
+)</br>(Zambian Kwacha - ZMK
+)</br>(Zimbabwe dollar - ZWD)  etc.
+
 <h2> GUI(Window)  </h2>
  <p align="center">
   <img src="CurrencyConverter/images/Current Converter Window.png"  width="350" height="auto" title="window">
